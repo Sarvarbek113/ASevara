@@ -1,0 +1,35 @@
+html {
+  scroll-behavior: smooth; }
+
+body .col-3, body .col-4, body .col-6 {
+  box-shadow: 6px 9px 8px 5px rgba(191, 232, 220, 0.2); }
+
+.section-a {
+  background-image: url("images/beautiful-colorful-background-with-wavy-lines_1017-33503.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #051b47; }
+
+.section-b {
+  background: #68d4e8;
+  background: linear-gradient(90deg, #68d4e8 0%, #d13095 100%, #00d4ff 100%);
+  border: 1px solid #f7f8fa; }
+  .section-b a {
+    font-size: 16px !important;
+    font-weight: bold !important;
+    font-family: Calibri, sans-serif;
+    color: #070545 !important; }
+
+a:hover {
+  border-bottom: 2px solid #fdfcfc !important;
+  font-size: 18px !important; }
+
+.section-back {
+  background-image: url("images/871bcc7829408ff7ac21b672161abc21.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white !important; }
+
+/*# sourceMappingURL=style.css.map */

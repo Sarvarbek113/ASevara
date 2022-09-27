@@ -1,0 +1,46 @@
+html{
+  scroll-behavior: smooth;
+}
+body{
+  .col-3, .col-4, .col-6{
+    box-shadow: 6px 9px 8px 5px rgba(191, 232, 220, 0.2);
+  }
+}
+.section-a {
+
+  background-image: url("images/beautiful-colorful-background-with-wavy-lines_1017-33503.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #051b47;
+}
+
+
+
+.section-b {
+  background: rgb(104, 212, 232);
+  background: linear-gradient(90deg, rgba(104, 212, 232, 1) 0%, rgba(209, 48, 149, 1) 100%, rgba(0, 212, 255, 1) 100%);
+  border: 1px solid #f7f8fa;
+  a {
+
+    font-size: 16px !important;
+    font-weight: bold !important;
+    font-family: Calibri, sans-serif;
+    color: #070545 !important;
+  }
+
+
+}
+
+a:hover {
+  border-bottom: 2px solid #fdfcfc !important;
+  font-size: 18px !important;
+}
+
+.section-back{
+  background-image: url("images/871bcc7829408ff7ac21b672161abc21.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white!important;
+}
